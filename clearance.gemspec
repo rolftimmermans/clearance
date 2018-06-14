@@ -5,7 +5,6 @@ require 'date'
 Gem::Specification.new do |s|
   s.add_dependency 'bcrypt'
   s.add_dependency 'email_validator', '~> 1.4'
-  s.add_dependency 'rails', '>= 3.1'
   s.authors = [
     'Dan Croak',
     'Eugene Bolshakov',
